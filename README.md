@@ -1,1 +1,1 @@
-It is my take on the colour sensor TCS300 , exploring its possiblilties ans use cases. Usually used for sorting things, I have used it for currency detection. Its not 100% accurate due to changes in ambient lighting, gives an audio feedback through DFmini player.
+It is my take on the colour sensor TCS3200 , exploring its possiblilties ans use cases. Usually used for sorting things, I have used it for currency detection. Its not 100% accurate due to changes in ambient lighting, gives an audio feedback through DFmini player.
